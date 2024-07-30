@@ -3,7 +3,7 @@
 from docx import Document
 from matplotlib import pyplot as plt
 import numpy as np
-document = Document('Interview_Marie_Laure_Bouthier_Color_Coded.docx')
+document = Document('Interview_User_Name_Color_Coded.docx')
 words = document._element.xpath('//w:r')
 WPML_URI = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 tag_rPr = WPML_URI + 'rPr'
