@@ -1,1 +1,2 @@
-# sentimentanalysis-worddocs
+# Sentiment Analysis for Word Docs(.docx)
+This tool takes a user interview transcript(in .docx format) that has been highlighted for every positive, negative, or neutral sentiments in respective colors green, red, and yellow. This tool creates a personalized pie chart for each person you've conducted user research on, presenting the comparison of sentiments. I originally made this as a tool for a Capstone project during an internship.
